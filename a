@@ -1,0 +1,63 @@
+[33mcommit c1568b34586dc4de7d5277b73c3c96718ad4b873[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mich4725 <michalmanu@gmail.com>
+Date:   Thu Nov 7 18:54:19 2019 +0100
+
+    test istance
+
+[33mcommit 0d4a0f3b1e10490669dada394dec993317ecd2ac[m
+Merge: 78a32c1 73b27e3
+Author: mich4725 <michalmanu@gmail.com>
+Date:   Thu Nov 7 18:52:34 2019 +0100
+
+    Merge branch 'master' of https://github.com/Goslawq/OptyKombi
+    my changes, importing now works correctly for me
+
+[33mcommit 73b27e39d9ea143fc75033cb9730cbd0621ded08[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Thu Nov 7 15:54:07 2019 +0100
+
+    reformat
+
+[33mcommit b80052d02bcb256ab529d5f2c07358e634521c62[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Thu Nov 7 15:51:49 2019 +0100
+
+    dodanie funkcji get do obiektów
+
+[33mcommit 78a32c14e27bcf05838867af86a30e1cb6d90236[m
+Author: mich4725 <michalmanu@gmail.com>
+Date:   Thu Nov 7 14:06:35 2019 +0100
+
+    began importing data, will finish soon
+
+[33mcommit 2085e2fcf578550e7e723fa66fa26d161d58c6da[m
+Author: mich4725 <michalmanu@gmail.com>
+Date:   Thu Nov 7 14:04:12 2019 +0100
+
+    started writing a header file
+    
+     Please enter the commit message for your changes. Lines starting
+
+[33mcommit e78ef7dd12e35df5195a425c8171b2dd1478a7d0[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Thu Nov 7 13:06:51 2019 +0100
+
+    jakieś rozpoczęcie
+
+[33mcommit 9cfd409ec5c9f91001aa779548046f4a5e2062ab[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Wed Oct 9 14:06:21 2019 +0200
+
+    stworzono main.cpp
+
+[33mcommit 78d93d850a4f489af9995e75754a1e7fa2429c69[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Fri Oct 4 11:25:36 2019 +0200
+
+    Update README.md
+
+[33mcommit 2ccec3bfdfa92577413ef353aa6da46b6d40a860[m
+Author: Goslawq <goslawek1234@gmail.com>
+Date:   Fri Oct 4 11:25:21 2019 +0200
+
+    Initial commit

@@ -1,0 +1,8 @@
+ file rozwiązanie lower bump
+tai20.txt 2360 928
+tai21.txt 2308 1217
+tai22.txt 2567 1223
+tai23.txt 2282 1164
+tai24.txt 2487 1151
+tai25.txt 2566 1170
+
